@@ -69,3 +69,14 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 ### Development Environment: Jupyter Notebook / Anaconda
 
+## Conclusion
+
+The Random Forest Regressor achieved the lowest prediction error and the best overall performance among all evaluated models. It provides a strong balance between accuracy and generalization, making it the most suitable model for sales and revenue forecasting in this project.
+
+## Future Improvements
+
+* Perform hyperparameter tuning to further reduce prediction error.
+
+* Experiment with advanced models such as XGBoost or LightGBM.
+
+* Deploy the model using a web framework (Flask/Streamlit) for real-time predictions.
