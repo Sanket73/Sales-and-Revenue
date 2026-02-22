@@ -49,7 +49,7 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 * Machine Learning Library: Scikit-learn
 
-# Regression Models Implemented:
+### Regression Models Implemented:
 
 * Linear Regression
 
@@ -61,11 +61,11 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 * Voting Regressor (Ensemble Learning)
 
-# Model Evaluation Metrics:
+### Model Evaluation Metrics:
 
 * Mean Absolute Error (MAE)
 
 * R² Score
 
-# Development Environment: Jupyter Notebook / Anaconda
+### Development Environment: Jupyter Notebook / Anaconda
 
