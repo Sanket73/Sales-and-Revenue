@@ -1,4 +1,4 @@
-# 📊 Sales and Revenue Prediction
+# Sales and Revenue Prediction
 
 This project builds and compares multiple machine learning regression models to predict **Sales and Revenue**. The goal is to identify the best-performing model based on prediction error.
 
