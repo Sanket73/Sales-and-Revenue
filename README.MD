@@ -41,13 +41,19 @@ The **Random Forest Regressor** performed best.
 Therefore, Random Forest is selected as the final model for sales and revenue prediction.
 
 ## Technologies Used
-* Programming Language: Python
+**Programming Language**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-* Data Processing & Analysis: Pandas, NumPy
+**Data Processing & Analysis**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-* Data Visualization: Matplotlib, Seaborn
+**Data Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-* Machine Learning Library: Scikit-learn
+**Machine Learning Library**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ### Regression Models Implemented:
 
@@ -67,7 +73,9 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 * R² Score
 
-### Development Environment: Jupyter Notebook / Anaconda
+### Development Environment: 
+
+* Jupyter Notebook / Anaconda
 
 ## Conclusion
 
