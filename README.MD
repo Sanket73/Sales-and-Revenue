@@ -77,6 +77,8 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 * Jupyter Notebook / Anaconda
 
+![Architecture](https://raw.githubusercontent.com/Sanket73/Sales-and-Revenue/main/images/architecture.png)
+
 ## Conclusion
 
 The Random Forest Regressor achieved the lowest prediction error and the best overall performance among all evaluated models. It provides a strong balance between accuracy and generalization, making it the most suitable model for sales and revenue forecasting in this project.
