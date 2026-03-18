@@ -77,7 +77,7 @@ Therefore, Random Forest is selected as the final model for sales and revenue pr
 
 * Jupyter Notebook / Anaconda
 
-![Architecture](https://raw.githubusercontent.com/Sanket73/Sales-and-Revenue/main/images/architecture.png)
+![Architecture](https://github.com/Sanket73/Sales-and-Revenue/blob/main/image.png?raw=true)
 
 ## Conclusion
 
