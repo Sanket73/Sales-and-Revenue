@@ -88,3 +88,11 @@ The Random Forest Regressor achieved the lowest prediction error and the best ov
 * Experiment with advanced models such as XGBoost or LightGBM.
 
 * Deploy the model using a web framework (Flask/Streamlit) for real-time predictions.
+
+# Author
+
+Sanket Dongardive
+
+GitHub: https://github.com/Sanket73
+
+LinkedIn: https://linkedin.com/in/sanket-dongardive-515793315
